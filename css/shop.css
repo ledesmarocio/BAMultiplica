@@ -154,7 +154,7 @@ header .logo img{
 }
 .img img{
     
-   max-width: 150px;
+    width: 190px;
     height: 200px;
     object-fit: cover;
     margin-top: 10px;
@@ -162,7 +162,7 @@ header .logo img{
 .card{
     background-color: #fff;
     margin: 10px;
-    width: 160px;
+    width: 200px;
     height: 277px;
     box-shadow: 0 1px 2px;
     border-radius: 3px;
@@ -170,6 +170,7 @@ header .logo img{
 .card h3{
     font-size: 18px;
 }
+
 .footer-bg{
 
     background-color:#e0b2b2;
